@@ -13,7 +13,7 @@ var products = [
         type: "Bass Guitar",
         price: 1299.99,
         brand: "Fender",
-        image: "./image/bass.jpg",
+        image: "/image/bass.jpg",
         color: "red"
 
     },
