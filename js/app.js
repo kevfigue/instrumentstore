@@ -22,7 +22,7 @@ var products = [
         type: "Hybrid Piano",
         price: 9299.00,
         brand: "Yamaha",
-        image: "../image/n1x-hybrid.jpg",
+        image: ".../image/n1x-hybrid.jpg",
         color: "green"
 
     },            {
