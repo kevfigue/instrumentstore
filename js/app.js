@@ -5,7 +5,7 @@ var products = [
         type: "Electric Guitar",
         price: 1099.99,
         brand: "Fender",
-        image: "..image/eguitar.png",
+        image: "image/eguitar.png",
         color: "red"
     },
     {
@@ -13,7 +13,7 @@ var products = [
         type: "Bass Guitar",
         price: 1299.99,
         brand: "Fender",
-        image: "./image/bass.jpg",
+        image: "image/bass.jpg",
         color: "red"
 
     },
@@ -22,7 +22,7 @@ var products = [
         type: "Hybrid Piano",
         price: 9299.00,
         brand: "Yamaha",
-        image: ".image/n1x-hybrid.jpg",
+        image: "image/n1x-hybrid.jpg",
         color: "green"
 
     },            {
