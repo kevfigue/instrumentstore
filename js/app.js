@@ -5,7 +5,7 @@ var products = [
         type: "Electric Guitar",
         price: 1099.99,
         brand: "Fender",
-        image: "/image/eguitar.png",
+        image: "image/eguitar.png",
         color: "red"
     },
     {
